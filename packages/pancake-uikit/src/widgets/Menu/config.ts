@@ -19,7 +19,7 @@ export const links = [
   {
     label: "Home",
     icon: "HomeIcon",
-    href: "/",
+    href: "https://metaflokiavatars.com/",
   },
   {
     label: "Trade",

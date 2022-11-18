@@ -146,6 +146,7 @@ it("renders correctly", () => {
       -webkit-box-align: center;
       -ms-flex-align: center;
       align-items: center;
+      align-self: center;
       border: 0;
       border-radius: 16px;
       box-shadow: 0px -1px 0px 0px rgba(14,14,44,0.4) inset;
